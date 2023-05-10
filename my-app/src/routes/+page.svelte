@@ -1,28 +1,12 @@
 <script>
 	console.log("hello");
 </script>
-<style lang="postcss">
-	
-	:global(html) {
-		/* Trust Don't know why it throws this dumb error it works lol! */
-		background-color: theme("colors.gray.800");	
-}
-
-	</style>
 <html lang="en">
 	<title>The html & Tailwind for my webpage</title>
-	<nav class="fixed bottom-3 left-10 text-white uppercase m-0 list-sytle-none">
-		<ul class="flex justify-center">
-			<li><a class="border-b-2 hover:border-b-4 border-emerald-400 mx-1"href="/">Contact Me</a> </li>
-			<li><a class="border-b-2 hover:border-b-4 border-emerald-400 mx-1"href="/">Portfolio</a></li>
-			<li><a class="border-b-2 hover:border-b-4 border-emerald-400 mx-1"href="/">Github</a> </li>
-			<li><a class="border-b-2 hover:border-b-4 border-emerald-400 mx-1"href="/">Linkedin</a></li>				
-		</ul>
-	</nav>
 	<!-- from-emerald-800 to-gray-950 cool gradient -->
 	<div class="flex lg:gap-96 md:gap-4 h-screen">
 
-		<div class="bg-gray rounded-lg overflow-hidden mt-5 h-3/4 lg:w-1/2 md:w-1/2 sm:w-full shadow-xl shadow-emerald-500/50">
+		<div class="bg-gray rounded-lg overflow-hidden mt-5 h-3/4 w-1/2 shadow-xl shadow-emerald-500/50">
 			<div class="card rounded-none h-100 ">
 				<div class="text-gray-400 text-sm font-mono p-4" style="font-size: 1em; line-height: 1.5">
 					<h1 class="text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl font-bold leading-tight mb-2 text-emerald-400 ">
@@ -42,7 +26,7 @@
 				</div>
 			</div>
 			
-			<div class="flex mt-10 h-3/4 lg:w-1/4 md:text-sm sm:w-1/2 justify-center items-center " style="
+			<div class="flex mt-10 h-3/4 lg:w-1/4 w-1/2 justify-center items-center " style="
 			<!-- border: 1px solid; -->
 			">
 			<div class="h-1/3 rounded p-2" >
