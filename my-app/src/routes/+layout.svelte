@@ -13,5 +13,4 @@
       <li><a class="border-b-2 hover:border-b-4 border-emerald-400 mx-1"href="/">Linkedin</a></li>				
     </ul>
   </nav>
-
 </body>
