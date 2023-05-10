@@ -1,9 +1,9 @@
 <script>
     import "../app.css";
-	import Index from "./index.svelte";
+	  import Documentation from "./documentation.svelte";
 </script>
 <div class="container mx-auto my-6">
   <slot></slot>
 </div>
 
-<svelte:component this={Index} />
+<svelte:component this={Documentation} />
