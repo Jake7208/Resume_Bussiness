@@ -1,7 +1,11 @@
-<div class="bg-white rounded-3xl overflow-hidden h-96 w-full shadow-lg shadow-gray-900/100">
+<script>
+	let image;
+</script>
+
+<div class="bg-gray-300 rounded-3xl overflow-hidden h-96 w-[350px] shadow-lg shadow-gray-900/100">
 	<div class="card">
 		<!-- <div class="flex justify-center"> -->
-		<slot name="icon" />
+		<slot name="image" />
 		<!-- </div> -->
 		<div class="text-gray-500 text-sm font-mono p-4" style="font-size: 1em; line-height: 1.5">
 			<p

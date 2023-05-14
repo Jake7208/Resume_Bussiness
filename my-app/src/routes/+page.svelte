@@ -9,7 +9,8 @@
 	import ProfileIconA from '../components/IconICE.svelte';
 	import ProfileIconB from '../components/IconICF.svelte';
 	import ProfileIconC from '../components/IconICG.svelte';
-	import contributersCard from '../components/Contributers.svelte';
+	import ContributersCard from '../components/Contributers.svelte';
+	import Ratius from '../components/ratius.svelte';
 </script>
 
 <!--  -->
@@ -130,7 +131,7 @@
 	<!-- from-emerald-800 to-gray-950 cool gradient -->
 	<!-- grid stuff ! grid lg:grid-cols-4 md:grid-cols-2 sm:grid-cols-1  -->
 	<div
-		class="h-[auto] lg:h-[800px] grid grid-cols-1 xl:grid-cols-4 lg:grid-cols-2 sm:grid-cols-1 gap-5 mx-5 content-center overflow-hidden"
+		class="h-[auto] lg:h-[800px] grid grid-cols-1 xl:grid-cols-4 lg:grid-cols-2 sm:grid-cols-1 gap-10 mx-10 content-center overflow-hidden"
 	>
 		<!-- card 1 -->
 		<Card>
@@ -157,5 +158,9 @@
 		</Card>
 	</div>
 	<!-- contributers -->
-	<div class="h-[800px] bg-gradient-to-bl from-gray-800 via-emerald-800 to-green-600" />
+	<div class="flex justify-center items-center h-[90vh] mx-10 shadow-m">
+		<ContributersCard>
+			<Ratius />
+		</ContributersCard>
+	</div>
 </html>
