@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <script>
 	function handleClick(e) {
 		e.preventDefault();
@@ -21,3 +22,11 @@
 <section id="EnterName" class="h-screen snap-start">
 	<p>Enter Your Name</p>
 </section>
+=======
+<script> 
+
+</script>
+
+
+<h1>Build your dream Resume</h1>
+>>>>>>> Stashed changes
