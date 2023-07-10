@@ -16,7 +16,7 @@ The website provides users with a wide range of features, including:
 
 ## Technologies Used
 
-The project utilizes C# for the REST API and Svelte.js and Tailwind CSS for the frontend. The combination of these technologies allows us to provide users with a fast, reliable, and user-friendly experience.
+The project utilizes a REST API with Svelte.js and Tailwind CSS for the frontend. The combination of these technologies allows us to provide users with a fast, reliable, and user-friendly experience.
 
 ## Contact Information
 
