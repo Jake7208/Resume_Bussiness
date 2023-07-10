@@ -20,4 +20,4 @@ The project utilizes C# for the REST API and Svelte.js and Tailwind CSS for the 
 
 ## Contact Information
 
-If you have any questions or would like to learn more about our project, please feel free to reach out to me via email at jake7208@gmail.com or connect with me on LinkedIn at https://www.linkedin.com/in/jacob-price-768120240. We are dedicated to providing the best possible experience for our users and helping them to achieve their career goals.
+If you have any questions or would like to learn more about our project, please feel free to reach out to me via email at jacob.andrew.price@gmail.com or connect with me on LinkedIn at www.linkedin.com/in/jacob-price1. We are dedicated to providing the best possible experience for our users and helping them to achieve their career goals.
