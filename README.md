@@ -1,6 +1,6 @@
 # Resume Website
 
-The Resume Website is a project that utilizes a REST API and Svelte.js and Tailwind CSS for the frontend. The goal of the project is to help users build resumes easily online using our templates or their own, and simplify the resume process.
+The Resume Website is a project that utilizes a REST API with Svelte.js and Tailwind CSS for the frontend. The goal of the project is to help users build resumes easily online using our templates or their own, and simplify the resume process.
 
 ## Features
 
